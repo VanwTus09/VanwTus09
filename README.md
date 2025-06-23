@@ -24,7 +24,7 @@
 
 <!-- - 🌍 Website cá nhân: [hoangthh.github.io](https://hoangthh.github.io) -->
 - 📧 Email: [tunguyen.05112004@gmail.com](mailto:tranhoang202204@gmail.com)
-- 🐦 LinkedIn: [www.linkedin.com/in/huy-hoàng-aa865635b](https://www.linkedin.com/in/huy-hoàng-aa865635b)
+- 🐦 LinkedIn: [https://www.linkedin.com/in/nguy%E1%BB%85n-vanw-t%C3%BA-709114292/](https://www.linkedin.com/in/nguy%E1%BB%85n-vanw-t%C3%BA-709114292/)
 
 ---
 
@@ -49,7 +49,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hoangthh&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangthh&layout=compact&theme=tokyonight" alt="langs" />
 </p>
 
