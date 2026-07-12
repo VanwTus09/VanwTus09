@@ -26,7 +26,7 @@
 
 - 🌍 Portfolio: [dason-nguyen.vercel.app](https://dason-nguyen.vercel.app/)
 - 📧 Email: [tunguyen.05112004@gmail.com](mailto:tunguyen.05112004@gmail.com)
-- 🐦 LinkedIn: [Nguyễn Văn Tú](https://www.linkedin.com/in/nguy%E1%BB%85n-vanw-t%C3%BA-709114292/)
+- 🐦 LinkedIn: [Nguyễn Văn Tú](https://www.linkedin.com/in/nguy%E1%BB%85n-v%C4%83n-t%C3%BA-709114292/)
 
 ---
 
