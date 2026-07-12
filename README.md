@@ -5,52 +5,62 @@
 </p>
 
 <p align="center">
-  💻 Sinh viên công nghệ thông tin <br>
-  🚀 Yêu thích lập trình và thiết kế hệ thống   <br>
+  💻 Software Engineer (Full-Stack) tại JDO Group <br>
+  🚀 Xây dựng hệ thống thanh toán, microservices và ứng dụng doanh nghiệp <br>
   🔍 Luôn học hỏi những công nghệ mới để tạo ra sản phẩm hữu ích
 </p>
 
 ---
 
 ## 🧠 Về tôi
-🔭 Sinh viên năm 3 chuyên ngành Kĩ thuật phần mềm.
-🌱 Hiện đang tìm hiểu thêm về **NestJS**, **NextJS**, **TypeORM**, **Prisma**.  
-🏗️ Đã từng tham gia phát triển nhiều dự án học thuật và cá nhân.
-💬 Tôi luôn muốn chia sẻ, học hỏi và cộng tác để tạo ra những ứng dụng chất lượng.
+
+- 💼 Full-Stack Developer tại **JDO Group** (02/2025 – nay), phát triển ứng dụng doanh nghiệp với **React, NestJS, PostgreSQL, Redis, Docker**.
+- 💳 Xây dựng các module thanh toán: hoá đơn điện tử, hoàn tiền, tích hợp **VNPay, OnePay, Banking APIs**.
+- 🏗️ Tham gia kiến trúc **Microservices & Microfrontend** cho nền tảng thanh toán (jPOS) và truyền thông, có sử dụng **Go + gRPC**.
+- 🌱 Đang tìm hiểu thêm về **Kubernetes**, **Kafka**, **ArgoCD** và các công cụ AI hỗ trợ lập trình (Claude Code, MCP, Cursor).
+- 🎓 Cử nhân Kĩ thuật phần mềm — Đại học Kinh tế TP.HCM (2026).
 
 ---
 
 ## 📫 Liên hệ
 
-<!-- - 🌍 Website cá nhân: [hoangthh.github.io](https://hoangthh.github.io) -->
-- 📧 Email: [tunguyen.05112004@gmail.com](mailto:tranhoang202204@gmail.com)
-- 🐦 LinkedIn: [https://www.linkedin.com/in/nguy%E1%BB%85n-vanw-t%C3%BA-709114292/](https://www.linkedin.com/in/nguy%E1%BB%85n-vanw-t%C3%BA-709114292/)
+- 🌍 Portfolio: [dason-nguyen.vercel.app](https://dason-nguyen.vercel.app/)
+- 📧 Email: [tunguyen.05112004@gmail.com](mailto:tunguyen.05112004@gmail.com)
+- 🐦 LinkedIn: [Nguyễn Văn Tú](https://www.linkedin.com/in/nguy%E1%BB%85n-vanw-t%C3%BA-709114292/)
 
 ---
 
 ## 🚀 Công nghệ
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,react,js,html,css,cs,java,mongodb,firebase,mysql,redis,docker,vscode,git,github" alt="skills">
+  <img src="https://skillicons.dev/icons?i=ts,js,go,react,nextjs,nestjs,nodejs,redux,tailwind,postgres,mongodb,elasticsearch,redis,kafka,grpc,docker,kubernetes,firebase,aws,jenkins,gitlab,git" alt="skills">
 </p>
+
+- **Frontend**: React.js, Next.js, Redux, React Query, Tailwind CSS, Shadcn UI
+- **Backend**: Node.js (NestJS), RESTful APIs, Microservices, gRPC, WebSocket
+- **Databases**: PostgreSQL, MongoDB, ElasticSearch
+- **Caching & Messaging**: Redis, Kafka
+- **DevOps**: Docker, Docker Swarm, Linux, Harbor, Kubernetes (Basic), GitLab CI/CD, Jenkins, ArgoCD (Basic)
+- **Cloud & Services**: AWS S3, MinIO, Cloudinary, Firebase
+- **AI & Automation**: Claude Code, MCP, ChatGPT, Cursor, Gemini
 
 ---
 
-## 🔧 Dự án
+## 🔧 Dự án nổi bật
 
 | 💼 Dự án | 🚀 Công nghệ | 📄 Mô tả |
 |---------|--------------|---------|
-| **SocialMedia** | ExpressJS(NodeJS), ReactJS, SocketIO | Mạng xã hội thời gian thực lấy cảm hứng từ Facebook |
-| **Shueh_Weh** | ReactJS, ASP.NET | Website thương mại điện tử bán giày và trang Admin quản lí tổng hợp |
-| **Caydauto_Web** | ReactJS, ASP.NET | Website thương mại điện tử bán dồ dùng văn phòng phẩm |
+| **Enterprise Payment & E-Invoice System** | NestJS, React, PostgreSQL, Redis, Docker, AWS S3, VNPay | Hệ thống thanh toán & hoá đơn điện tử: xử lý thanh toán, hoàn tiền, quản lý công nợ, thông báo & OTP |
+| **jPOS – Payment Platform** | NestJS, Go (gRPC), React, Angular, PostgreSQL, Redis, Docker | Nền tảng POS xây dựng từ đầu theo kiến trúc Microservices & Microfrontend, tích hợp cổng thanh toán và webhook |
+| **School Bus ETA Tracking System** | NestJS, PostgreSQL, Redis, Google Maps APIs, Firebase | Hệ thống theo dõi ETA xe buýt trường học thời gian thực với chiến lược polling tối ưu chi phí API |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangthh&layout=compact&theme=tokyonight" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VanwTus09&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanwTus09&layout=compact&theme=tokyonight" alt="langs" />
 </p>
 
 ---
@@ -60,17 +70,3 @@
 </p>
 
 Cảm ơn bạn đã ghé thăm hồ sơ của tôi!
-<!--
-**hoangthh/hoangthh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
